@@ -1,4 +1,3 @@
-## Website Sistem Informasi Absensi Siswa SMP ##
+## Website Sistem Informasi Absensi Siswa ##
 
 Nama dan file database : sisabsi.sql
-<br><br>Website ini memakai php 5.6 dan mysql
